@@ -1,2 +1,2 @@
 # SnakeVanillaJS
-My First JS Script in 2017
+My First JS Game in 2017 using Canvas on Vanilla JavaScript
